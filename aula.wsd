@@ -1,0 +1,9 @@
+@startuml
+participant Usuario
+participant Libro
+participant Prestamo
+
+Usuario -> Libro : Solicitar Prestamo
+Libro -> Prestamo : Registrar Prestamo
+Prestamo -> Usuario : Confirmar Prestamo
+@enduml

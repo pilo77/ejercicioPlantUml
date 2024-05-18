@@ -14,6 +14,6 @@ La necesidad que se está presentando en el diagrama es la de gestionar eficient
 4. **Disponibilidad y Trazabilidad**:
     - Es importante que el sistema pueda verificar la disponibilidad de los libros en tiempo real y mantener una trazabilidad de los préstamos para gestionar reservas y futuras solicitudes de otros usuarios.
 
-## [Diagrama de Clases](Diagrama/Diagrama_Clases.wsd)
+## [Diagrama de Secuencia](aula.wsd)
 
-![Diagrama de Clases](Imagenes/Diagrama%20de%20Clases.png)
+![Diagrama de Clases](aula.png)
